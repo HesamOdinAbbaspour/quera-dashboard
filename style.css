@@ -1,0 +1,201 @@
+@font-face {
+  font-family: "IranYekan";
+  src: url("assets/font/IRANyekan.ttf");
+}
+
+* {
+  font-family: "IranYekan";
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f6f8fa;
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "main sidebar"
+    "footer footer";
+  gap: 10px;
+}
+
+/* sidebar */
+
+.sidebar {
+  padding: 20px;
+  grid-area: sidebar;
+}
+
+.sidebar h4 {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar ul li {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ebebeb;
+  margin-bottom: 5px;
+  text-decoration: none;
+  color: #666;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+}
+
+/* header */
+
+.header {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  grid-area: header;
+}
+
+.navbar {
+  display: flex;
+  justify-content: start;
+}
+
+.header .links {
+  list-style-type: none;
+  margin: 0 20px;
+}
+
+.header .links li {
+  display: inline;
+  margin: 0 5px;
+}
+
+.header .links li a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+}
+
+.header .links li a:hover,
+.header .links li a:focus {
+  color: #229ecf;
+  font-weight: bold;
+}
+
+/* main content */
+
+.main-content {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-area: main;
+  gap: 20px;
+}
+
+.class-section,
+.courses-section {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.class-section .item,
+.courses-section .item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.item .title {
+  color: #0097c9;
+  font-weight: bold;
+}
+
+.item .progress {
+  color: #333;
+  font-size: 12px;
+}
+
+/* footer */
+
+.footer {
+  padding: 10px 60px;
+  background-color: #fff;
+  padding: 10px 60px;
+  display: grid;
+  grid-template-rows: 4fr 1fr;
+  grid-area: footer;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.footer-info {
+  text-align: center;
+  margin: 10px;
+}
+
+.footer-section {
+  margin: 10px;
+  text-align: right;
+}
+
+.footer-section h4 {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.footer-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 5px;
+}
+
+.footer-section ul li a {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+}
+
+.footer-section ul li a:hover {
+  color: #229ecf;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #229ecf;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  margin-top: 20px;
+}
+
+.footer-bottom p {
+  font-size: 14px;
+  color: #666;
+}
