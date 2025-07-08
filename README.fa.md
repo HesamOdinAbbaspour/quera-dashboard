@@ -33,8 +33,8 @@
 مخزن را کلون کرده و فایل `index.html` را در مرورگر باز کنید:
 
 ```bash
-git clone https://github.com/HesamOdinAbbaspour/quera-dashboard-clone.git
-cd quera-dashboard-clone
+git clone https://github.com/HesamOdinAbbaspour/quera-dashboard.git
+cd quera-dashboard
 open index.html
 ```
 
