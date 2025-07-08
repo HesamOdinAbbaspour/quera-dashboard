@@ -95,4 +95,5 @@ open index.html
 Copyright (c) 2025 Hesam Odin Abbaspour(https://github.com/HesamOdinAbbaspour)
 
 
-> 📄 **:برای مشاهده نسخه انگلیسی، اینجا کلیک کنید: ** [README.en.md](README.en.md)
+
+> 📄 برای مشاهده نسخه انگلیسی، اینجا کلیک کنید: [README.en.md](README.en.md)
