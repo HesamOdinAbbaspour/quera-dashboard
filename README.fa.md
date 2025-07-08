@@ -40,7 +40,7 @@ open index.html
 
 
 
-## 📄 `README.fa.md`
+
 
 
 
