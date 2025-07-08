@@ -40,57 +40,6 @@ git clone https://github.com/yourusername/quera-dashboard-clone.git
 cd quera-dashboard-clone
 open index.html
 
-عالیه حسام 👌
-این ساختاری که نوشتی کاملاً حرفه‌ای و استاندارد پروژه‌های محبوب گیت‌هابه، مخصوصاً اگه بخوای تو رزومه خارجی، لینک پروفایل گیت‌هابت رو بزاری یا ریپوزیتوری‌هات رو در لینکدین معرفی کنی.
-
-من همین حالا با توجه به پروژه‌ای که دادی (Quera Dashboard Clone) بر اساس ساختار پیشنهادی تو، یک README **به زبان انگلیسی** برات آماده کردم که کاملاً قابل شخصی‌سازی و توسعه‌ست 👇
-
----
-
-## ✅ README.md (نسخه انگلیسی کامل و قابل استفاده)
-
-````markdown
-# 🎓 Quera Dashboard Clone
-
-A minimalist, RTL-friendly frontend clone of Quera's dashboard built purely with HTML and CSS.
-
-[![License](https://img.shields.io/github/license/yourusername/quera-dashboard-clone)](LICENSE)
-[![Made with HTML & CSS](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)](#)
-[![Responsive](https://img.shields.io/badge/Responsive-No-red)](#)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/quera-dashboard-clone?style=social)](#)
-
----
-
-## ✨ Features
-
-- 🎨 Clean UI inspired by Quera platform
-- 📐 Fully RTL layout
-- 💡 Uses custom Persian font (IranYekan)
-- 🔧 Built with pure HTML & CSS – no libraries or frameworks
-- 📁 Organized project structure
-- 🧪 Great for practicing grid layouts and RTL design
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here:  
-
-| Dashboard View | Sidebar | Footer |
-|----------------|---------|--------|
-| ![Main View](assets/image/preview.png) | ![Sidebar](assets/image/sidebar.png) | ![Footer](assets/image/footer.png) |
-
----
-
-## 🚀 Getting Started
-
-Clone the repository and open the project in your browser.
-
-```bash
-git clone https://github.com/yourusername/quera-dashboard-clone.git
-cd quera-dashboard-clone
-open index.html
-````
 
 ✅ No build tools or setup required – just open `index.html` in your browser.
 
