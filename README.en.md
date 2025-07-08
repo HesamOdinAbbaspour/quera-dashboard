@@ -36,8 +36,8 @@ A minimalist, RTL-friendly frontend clone of Quera's dashboard built purely with
 Clone the repository and open the project in your browser.
 
 ```bash
-git clone https://github.com/yourusername/quera-dashboard-clone.git
-cd quera-dashboard-clone
+git clone https://github.com/yourusername/quera-dashboard.git
+cd quera-dashboard
 open index.html
 ```
 
