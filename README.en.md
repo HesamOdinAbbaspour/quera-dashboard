@@ -23,7 +23,6 @@ A minimalist, RTL-friendly frontend clone of Quera's dashboard built purely with
 
 ## 📸 Screenshots
 
-> Add screenshots here:  
 
 | Dashboard View | Sidebar | Footer |
 |----------------|---------|--------|
