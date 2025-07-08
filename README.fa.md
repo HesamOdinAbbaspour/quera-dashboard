@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/HesamOdinAbbaspour/quera-dashboard)](LICENSE)
 [![ساخته‌شده با HTML و CSS](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)](#)
 [![ریسپانسیو نیست](https://img.shields.io/badge/Responsive-No-red)](#)
-[![ستاره‌های گیت‌هاب](https://img.shields.io/github/stars/HesamOdinAbbaspour/quera-dashboard-clone?style=social)](https://github.com/HesamOdinAbbaspour/quera-dashboard-clone/stargazers)
+[![ستاره‌های گیت‌هاب](https://img.shields.io/github/stars/HesamOdinAbbaspour/quera-dashboard?style=social)](https://github.com/HesamOdinAbbaspour/quera-dashboard/stargazers)
 
 ---
 
