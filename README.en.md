@@ -5,7 +5,7 @@ A minimalist, RTL-friendly frontend clone of Quera's dashboard built purely with
 [![License](https://img.shields.io/github/license/HesamOdinAbbaspour/quera-dashboard)](LICENSE)
 [![Made with HTML & CSS](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)](#)
 [![Responsive](https://img.shields.io/badge/Responsive-No-red)](#)
-[![GitHub Stars](https://img.shields.io/github/stars/HesamOdinAbbaspour/quera-dashboard-clone?style=social)](https://github.com/HesamOdinAbbaspour/quera-dashboard-clone/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/HesamOdinAbbaspour/quera-dashboard?style=social)](https://github.com/HesamOdinAbbaspour/quera-dashboard/stargazers)
 
 
 ---
