@@ -42,7 +42,7 @@ open index.html
 
 ## 📄 `README.fa.md`
 
-````markdown
+
 
 ✅ هیچ پیش‌نیازی ندارد — فقط فایل `index.html` را در مرورگر باز کنید.
 
