@@ -41,9 +41,10 @@ cd quera-dashboard-clone
 open index.html
 
 
+
 ✅ No build tools or setup required – just open `index.html` in your browser.
 
----
+
 
 ## 💻 Usage Example
 
