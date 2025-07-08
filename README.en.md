@@ -39,7 +39,7 @@ Clone the repository and open the project in your browser.
 git clone https://github.com/yourusername/quera-dashboard-clone.git
 cd quera-dashboard-clone
 open index.html
-
+```
 
 
 ✅ No build tools or setup required – just open `index.html` in your browser.
