@@ -36,7 +36,7 @@
 git clone https://github.com/HesamOdinAbbaspour/quera-dashboard-clone.git
 cd quera-dashboard-clone
 open index.html
-
+```
 
 
 
